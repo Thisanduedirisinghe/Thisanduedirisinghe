@@ -12,6 +12,26 @@
 
 
 
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thisanduedirisinghe&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![thisanduedirisinghe GitHub stats](https://github-readme-stats.vercel.app/api?username=thisanduedirisinghe&theme=algolia)](https://github.com/thisanduedirisinghe/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisanduedirisinghe&theme=algolia)](https://github.com/thisanduedirisinghe/github-readme-stats) [![thisanduedirisinghe wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### About Me
 ---
