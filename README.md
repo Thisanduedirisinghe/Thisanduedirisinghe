@@ -3,10 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisanduedirisinghe&label=Profile%20views&color=0e75b6&style=flat" alt="thisanduedirisinghe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisanduedirisinghe" alt="thisanduedirisinghe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisanduedirisinghe" alt="thisanduedirisinghe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thisandu edirisinghe" target="blank"><img src="https://img.shields.io/twitter/follow/thisandu edirisinghe?logo=twitter&style=for-the-badge" alt="thisandu edirisinghe" /></a> </p>
 
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+
+
+
+### About Me
+---
 - 🔭 I’m currently working on **Development**
 
 - 🌱 I’m currently learning **Java , Flutter**
