@@ -37,9 +37,9 @@
 ---
 - 🔭 I’m currently working on **Development**
 
-- 🌱 I’m currently learning **Java , Flutter**
+- 🌱 I’m currently learning **Html , CSS , Java Script , Wordpress**
 
-- 💬 Ask me about **Java ,Flutter**
+- 💬 Ask me about **Html , CSS , Java Script , Wordpress**
 
 - 📫 How to reach me **thisandu.n.edirisinghe@gmail.com**
 
